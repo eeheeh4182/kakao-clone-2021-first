@@ -5,6 +5,7 @@
   flex-direction: column;
   align-items: center;
   font-weight: 600;
+  top: 15px;
 }
 
 .welcome-header__title {
